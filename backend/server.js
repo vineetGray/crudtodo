@@ -75,7 +75,7 @@ mongoose.connect(MONGODB_URI)
 app.use(cors({
   origin: [
     'http://localhost:3000',
-    'https://todovineet.netlify.app' // You'll update this after frontend deployment
+    'https://vinecrud.netlify.app' // You'll update this after frontend deployment
   ],
   credentials: true
 }));
