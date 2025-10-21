@@ -1,5 +1,7 @@
 A **full-stack Multi-User Todo Management Application** built with the MERN stack (MongoDB, Express.js, React.js, Node.js) featuring beautiful UI, advanced filtering, and comprehensive CRUD operations.
 
+Frontend is in master Branch
+Backend is in Main Branch
 
 ✨ Features
 Multi-User Support - Separate todo management for multiple users
@@ -72,8 +74,10 @@ echo "MONGODB_URI=mongodb://127.0.0.1:27017/todo_multi_user" >> .env
 
 # Start backend
 npm run dev
-3. Frontend Setup
+
+3. **Frontend Setup**
 bash
+master branch
 cd frontend
 npm install
 
