@@ -3,6 +3,10 @@ A **full-stack Multi-User Todo Management Application** built with the MERN stac
 **Frontend is in master Branch
 Backend is in Main Branch**
 
+**AS for Deployment :
+Frontend :vinecrud.netlify.app/ (Netlify)
+Backend :https://crudtodo-1.onrender.com (RENDER)**
+
 ✨ Features
 Multi-User Support - Separate todo management for multiple users
 
