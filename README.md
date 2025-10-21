@@ -1,8 +1,8 @@
 A **full-stack Multi-User Todo Management Application** built with the MERN stack (MongoDB, Express.js, React.js, Node.js) featuring beautiful UI, advanced filtering, and comprehensive CRUD operations.
 
 **Frontend is in master Branch
-Backend is in Main Branch
-**
+Backend is in Main Branch**
+
 ✨ Features
 Multi-User Support - Separate todo management for multiple users
 
